@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cce2b78-d9ec-4c84-9755-a5e3b397c682" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\xiang\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1YZp7Q6wUpfTmG3jCbdTgK8TUaa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xiang\workspace\IdeaProjects\day01_eesy_01mybatis\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MybatisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.MybatisTest" />
+      <module name="day01_eesy_01mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MybatisTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cce2b78-d9ec-4c84-9755-a5e3b397c682" name="Default Changelist" comment="" />
+      <created>1583159802623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583159802623</updated>
+      <workItem from="1583159803903" duration="8128000" />
+      <workItem from="1583204772409" duration="837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="19" key="#Project_Structure" timestamp="1583164753209">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="19" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1583164753209" />
+    <state x="446" y="44" key="#com.intellij.ide.util.MemberChooser" timestamp="1583160563511">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="446" y="44" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1583160563511" />
+    <state x="397" y="221" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583164121375">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="397" y="221" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.720@0.0.1280.720" timestamp="1583164121375" />
+    <state width="1238" height="406" key="GridCell.Tab.0.bottom" timestamp="1583168708678">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="406" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1583168708678" />
+    <state width="1238" height="406" key="GridCell.Tab.0.center" timestamp="1583168708678">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="406" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1583168708678" />
+    <state width="1238" height="406" key="GridCell.Tab.0.left" timestamp="1583168708678">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="406" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1583168708678" />
+    <state width="1238" height="406" key="GridCell.Tab.0.right" timestamp="1583168708678">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="406" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1583168708678" />
+    <state x="142" y="2" key="SettingsEditor" timestamp="1583165086313">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="2" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1583165086313" />
+    <state x="324" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1583204778431">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="324" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1583204778431" />
+    <state x="304" y="43" key="search.everywhere.popup" timestamp="1583165091091">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="304" y="43" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1583165091091" />
+  </component>
+</project>
