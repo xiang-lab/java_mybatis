@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cce2b78-d9ec-4c84-9755-a5e3b397c682" name="Default Changelist" comment="" />
+    <list default="true" id="9cce2b78-d9ec-4c84-9755-a5e3b397c682" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -46,6 +52,7 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="1YZp7Q6wUpfTmG3jCbdTgK8TUaa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -55,7 +62,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -99,6 +106,8 @@
       <updated>1583159802623</updated>
       <workItem from="1583159803903" duration="8128000" />
       <workItem from="1583204772409" duration="837000" />
+      <workItem from="1583232448419" duration="1220000" />
+      <workItem from="1583296829175" duration="505000" />
     </task>
     <servers />
   </component>
@@ -138,10 +147,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="2" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1583165086313" />
-    <state x="324" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1583204778431">
+    <state x="324" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1583296835480">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="324" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1583204778431" />
+    <state x="324" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1583296835480" />
     <state x="304" y="43" key="search.everywhere.popup" timestamp="1583165091091">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
